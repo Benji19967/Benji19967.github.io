@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 var typed = new Typed('.typed', {
-    strings: ["of London", "of Thailand", "of Milan", "of Paris", "of Switzerland"],
+    strings: ["of London", "of Thailand", "of Montreal", "of Switzerland"],
     smartBackspace: true,
     typeSpeed: 30,
     startDelay: 5000,
